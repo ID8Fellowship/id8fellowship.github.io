@@ -2,10 +2,16 @@
 	Canvas: Conference
 -----------------------------------------------------------------*/
 
-:root {
+/* :root {
 	--color1: #EC008B;
 	--color2: #F3317A;
 	--color3: #FB6567;
+} */
+
+:root {
+	--color1: #2e62fd;
+	--color2: #1e69fe;
+	--color3: #199bff;
 }
 
 body,
